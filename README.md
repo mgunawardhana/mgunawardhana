@@ -2,9 +2,9 @@
 
 🚀 **Software Engineer | Tech Enthusiast | Problem Solver**  
 
-![codeimage-snippet_20 (3)](https://github.com/user-attachments/assets/3ad11e10-8ff5-4321-a5b7-053b1f317381)
+![top-aws-service-list-2023-scaled](https://github.com/user-attachments/assets/f51b46db-bc13-4aa2-81ac-a08f084ceee6)
 
-I'm Maneesha, a 24-year-old enthusiastic Associate Software Engineer with a solid foundation in software development and programming (React, Java, Oracle DB, Postgres etc.). I excel at managing multiple tasks, thrive in high-pressure environments, and consistently deliver outstanding results. My skill set includes algorithms, Backend, and IT infrastructure. I bring a creative, innovative approach to problem-solving and am eager to learn new technologies, ensuring I adapt seamlessly to challenges. With strong technical support and troubleshooting abilities, I am wellequipped to excel in my role.
+I'm Maneesha, a 24-year-old enthusiastic Associate Software Engineer with a solid foundation in software development and programming (React, Java, Oracle DB, Postgres etc.). I excel at managing multiple tasks, thrive in high-pressure environments, and consistently deliver outstanding results. My skill set includes algorithms, Backend, and IT infrastructure. I bring a creative, innovative approach to problem-solving and am eager to learn new technologies, ensuring I adapt seamlessly to challenges. With strong technical support and troubleshooting abilities, I am well-equipped to excel in my role.
 
 ---
 
