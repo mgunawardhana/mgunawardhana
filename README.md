@@ -34,6 +34,8 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 
 and be Cool ☃️ with your development.
 
+*Need help with your Java Spring Boot project? I'm here to assist students 100% free of charge! Feel free to reach out if you're stuck on a specific issue or need guidance for your entire project. Let's build something great together!
+
 ---
 
 ## 📫 Contact Me
