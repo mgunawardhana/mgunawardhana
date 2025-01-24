@@ -21,14 +21,17 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 
 ---
 
-## 🌏 Hire Me 🐦‍🔥 [on Fiverr](https://www.fiverr.com/mgunawardhana27?public_mode=true)
+## 🌏 [on Fiverr](https://wa.me/94719043372) 🐦‍🔥
+
+
 
 <div align="center">
+
   <img 
-    src="https://github.com/user-attachments/assets/f10c622c-5725-451e-9113-68da2590132e" 
+    src="https://github.com/user-attachments/assets/a0850093-912e-41af-8e82-1da8d330da94" 
     alt="fiverr-new3326" 
     width="300" 
-    height="200" 
+    height="300" 
     style="border-radius: 8px;">
 </div>
 
