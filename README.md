@@ -21,7 +21,7 @@ Explore our portfolio of successful projects on [GitHub]() or visit our [website
 
 ---
 
-## 🌏 [on Fiverr](https://wa.me/94719043372) 🐦‍🔥
+## 🌏 [on Freelancer](https://wa.me/94719043372) 🐦‍🔥
 
 
 
