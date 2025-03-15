@@ -1,8 +1,8 @@
-## 👋 Hi, There!  
+![ebbdf7ce4f7f502d1f28b96b5cbd7a1f](https://github.com/user-attachments/assets/6769e2f3-f732-4945-a0da-ec6c02d277f6)## 👋 Hi, There!  
 
 🚀 **Software Engineer | Tech Enthusiast | Problem Solver**  
 
-![image](https://github.com/user-attachments/assets/2df87e40-7770-4115-82cf-c4f6e2c57380)
+![ebbdf7ce4f7f502d1f28b96b5cbd7a1f](https://github.com/user-attachments/assets/fc8d89f1-8bf2-4c3e-8562-d3e069bdea13)
 
 I'm Maneesha, a 24-year-old enthusiastic Associate Software Engineer with a solid foundation in software development and programming (React, Java, Oracle DB, Postgres etc.). I excel at managing multiple tasks, thrive in high-pressure environments, and consistently deliver outstanding results. My skill set includes algorithms, Backend, and IT infrastructure. I bring a creative, innovative approach to problem-solving and am eager to learn new technologies, ensuring I adapt seamlessly to challenges. With strong technical support and troubleshooting abilities, I am well-equipped to excel in my role.
 
