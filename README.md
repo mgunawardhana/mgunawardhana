@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<img width="1430" alt="Blue Lagoon@2x" src="https://github.com/user-attachments/assets/83c4cc51-80d0-4c8f-97a2-583b2ce4e4d8">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
@@ -49,21 +47,17 @@
 <div align="center">
 <div align="center">
 
-| Title | Icon |
-| ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode,arduino,pycharm,webstorm" /> |
-| Pr. Lang.. |  <img src="https://skillicons.dev/icons?i=py,java,dart,cpp" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=flutter" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular,vite" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=spring,nodejs,django,fastapi" /> |
-| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| database |  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
-| web-service |  <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,azure" /> |
-| Build-tools |  <img src="https://skillicons.dev/icons?i=gradle,maven," /> |
-| Version C. |  <img src="https://skillicons.dev/icons?i=git,github,gitlab" /> |
-| OS |  <img src="https://skillicons.dev/icons?i=linux,bash,kali" /> |
-| Cloud C. |  <img src="https://skillicons.dev/icons?i=aws,azure" /> |
-| Devops |  <img src="https://skillicons.dev/icons?i=bitbucket,docker,gcp,githubactions,nginx,jenkins" /> |  
+| **Category**            | **Icons**                                                                                     |
+|-------------------------|-----------------------------------------------------------------------------------------------|
+| IDEs                    | <img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,webstorm" /> |
+| Programming Languages   | <img src="https://skillicons.dev/icons?i=py,java" />                                  |
+| Front-End Development   | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,react,nextjs,angular,vite" /> |
+| Back-End Development    | <img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi" />                      |
+| Databases               | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />                            |
+| Web Services            | <img src="https://skillicons.dev/icons?i=aws,netlify" />                             |
+| Build Tools             | <img src="https://skillicons.dev/icons?i=gradle,maven" />                                      |
+| Version Control         | <img src="https://skillicons.dev/icons?i=git,github,gitlab" />                                 |
+| DevOps                  | <img src="https://skillicons.dev/icons?i=bitbucket,docker,gcp,githubactions,nginx,jenkins" />  |
 </div>                                                             
 </div>
                                             
