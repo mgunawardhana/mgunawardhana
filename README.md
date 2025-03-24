@@ -8,6 +8,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
+      <img src="https://user-badge.committers.top/sri_lanka/mgunawardhana.svg" width="300" height="30" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
       <img src="https://img.shields.io/badge/Associate_Software_Engineer_@-Dialog_Axiata_PLC-blue" width="400" height="30" />
   </a>
 </p>
