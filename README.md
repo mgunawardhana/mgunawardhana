@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://img.shields.io/badge/Associate_Software_Engineer_@-Dialog_Axiata_PLC-blue" width="400" height="30" />
+      <img src="https://img.shields.io/badge/Software_Engineer_@-Dialog_Axiata_PLC-blue" width="400" height="30" />
   </a>
 </p>
 
