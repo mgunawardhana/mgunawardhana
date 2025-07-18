@@ -1,5 +1,7 @@
 # Maneesha Gunawardhana 💀
 
+![Leonardo_Phoenix_10_A_group_of_miniature_futuristic_soldiers_s_1](https://github.com/user-attachments/assets/126f0a1b-1294-47d7-bf31-e45a533a8d4b)
+
 <p align="center">
   <a href="https://skillicons.dev">
       <img src="https://komarev.com/ghpvc/?username=mgunawardhana&color=3CCF4E" width=200" height="30" />
