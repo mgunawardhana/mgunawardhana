@@ -1,6 +1,21 @@
-# Maneesha Gunawardhana 💀
-
-![Leonardo_Phoenix_10_A_group_of_miniature_futuristic_soldiers_s_1](https://github.com/user-attachments/assets/126f0a1b-1294-47d7-bf31-e45a533a8d4b)
+<div align="center">
+  <a href="https://www.linkedin.com/in/maneesha-gunawardhana" target="_blank">
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQHwKpBd25OY5Q/profile-displayphoto-scale_200_200/B56ZoF14yjJ4AY-/0/1761034608526?e=1762387200&v=beta&t=FRKaIaoo6AxChh0tCxyD1mEARqOMC8AaA34fY3IXRlw" alt="Maneesha Gunawardhana" width="120"/>
+  </a>
+  
+  <h3>Maneesha G.</h3>
+  
+  <a href="https://www.linkedin.com/in/maneesha-gunawardhana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <p>
+    Software Engineer | BSc in Software Engineering | Google Certified Gemini Educator |<br/>
+    Professional WordPress Developer | Neo4j Certified Professional<br/>
+    <em>Freelancer.com | Cardiff Metropolitan University</em>
+  </p>
+</div>
+              
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -10,13 +25,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://user-badge.committers.top/sri_lanka/mgunawardhana.svg" width="300" height="30" />
+      <img src="https://user-badge.committers.top/sri_lanka/mgunawardhana.svg" width="400" height="60" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://img.shields.io/badge/Software_Engineer_@-Dialog_Axiata_PLC-blue" width="400" height="30" />
+      <img src="https://img.shields.io/badge/Software_Engineer_@-Dialog_Axiata_PLC-blue" width="300" height="30" />
   </a>
 </p>
 
