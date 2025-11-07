@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/maneesha-gunawardhana" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D5603AQHwKpBd25OY5Q/profile-displayphoto-scale_200_200/B56ZoF14yjJ4AY-/0/1761034608526?e=1762387200&v=beta&t=FRKaIaoo6AxChh0tCxyD1mEARqOMC8AaA34fY3IXRlw" alt="Maneesha Gunawardhana" width="120"/>
+    <img src="https://media.licdn.com/dms/image/v2/D5603AQHwKpBd25OY5Q/profile-displayphoto-scale_200_200/B56ZoF14yjJ4AY-/0/1761034608526?e=1764201600&v=beta&t=TGxNL_NVTDG-zbSne-BVU6f7HvqVgqdLX5RSeGt3eFw" alt="Maneesha Gunawardhana" width="120"/>
   </a>
   
   <h3>Maneesha G.</h3>
