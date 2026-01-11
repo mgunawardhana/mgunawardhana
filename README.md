@@ -38,8 +38,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
-<img width="1919" height="911" alt="Screenshot 2026-01-11 204513" src="https://github.com/user-attachments/assets/b664b67f-a557-4d04-a5f4-fa600d3c58f0" />
-<img width="1917" height="907" alt="Screenshot 2025-12-12 205412" src="https://github.com/user-attachments/assets/bbc9331a-3b8d-4b2c-bfc6-93dc8cc35376" />
+### 🧾 Enterprise POS & ERP Dashboard System
+**Tech Stack:** Spring Boot · React · PostgreSQL · Tailwind · Docker  
+
+🔗 **Project Link:**  
+👉 http://31.97.70.39:3001/
+
+A full-featured, enterprise-grade POS & ERP system built to manage end-to-end business operations including sales, inventory, users, and analytics from a single platform.
+
+<img width="1919" height="911" alt="Enterprise POS & ERP Dashboard" src="https://github.com/user-attachments/assets/b664b67f-a557-4d04-a5f4-fa600d3c58f0" />
+
+
+### 🍽️ Food & Beverage Operations Management System
+**Focus Areas:** Order Management · Tables · Staff · Billing · Operations  
+
+🔗 **Project Link:**  
+👉 under development...
+
+A full-featured food and beverage management system designed to handle restaurant, café, and hotel operations including orders, tables, menus, staff, billing, and daily operations.
+
+<img width="1917" height="907" alt="Food & Beverage Operations Dashboard" src="https://github.com/user-attachments/assets/bbc9331a-3b8d-4b2c-bfc6-93dc8cc35376" />
+
+
 
 ## **Badges** 🥇
 
