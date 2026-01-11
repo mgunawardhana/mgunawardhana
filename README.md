@@ -38,7 +38,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 
-<img width="1915" height="905" alt="Screenshot 2025-12-12 205455" src="https://github.com/user-attachments/assets/eff39025-65fe-4d53-bd58-1b5ce35ffdcb" />
+<img width="1919" height="911" alt="Screenshot 2026-01-11 204513" src="https://github.com/user-attachments/assets/b664b67f-a557-4d04-a5f4-fa600d3c58f0" />
 <img width="1917" height="907" alt="Screenshot 2025-12-12 205412" src="https://github.com/user-attachments/assets/bbc9331a-3b8d-4b2c-bfc6-93dc8cc35376" />
 
 ## **Badges** 🥇
