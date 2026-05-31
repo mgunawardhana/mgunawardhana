@@ -28,12 +28,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://img.shields.io/badge/Software_Engineer_@-Dialog_Axiata_PLC-blue" width="300" height="30" />
-  </a>
-</p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2ed573&width=850&lines=Helping+people+to+make+the+world+a+better+place+through+quality+software.)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009432&width=850&lines=-------------------------------------------------------------------------------------------------)](https://git.io/typing-svg)
