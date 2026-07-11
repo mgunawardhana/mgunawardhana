@@ -1,14 +1,17 @@
+<!-- ╔══════════════════════════════════════════════════════════════════╗
+     ║   MANEESHA GUNAWARDHANA — PREMIUM PROFILE README  v3.0.0          ║
+     ║   Theme: Neon Matrix Green (#2ed573) on GitHub Dark (#0d1117)     ║
+     ╚══════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=250&section=header&text=Maneesha%20Gunawardhana&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Enterprise%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50&descSize=18&stroke=2ed573&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=280&section=header&text=Maneesha%20Gunawardhana&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Enterprise%20Architect%20%7C%20Full-Stack%20Developer&descAlignY=62&descAlign=50&descSize=18&stroke=2ed573&strokeWidth=2" alt="Header Banner"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=2ED573&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=⚡+Engineering+enterprise-grade+systems+at+scale;☕+Java+•+Spring+Boot+•+React+•+PostgreSQL+•+Neo4j;🤖+Google+Certified+Gemini+Educator+%7C+AI+Practitioner;🔗+Graph+Database+Architect+%7C+Neo4j+Certified+Pro;🏗️+Building+the+next-gen+F%26B+%26+ERP+Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=2ED573&background=00000000&center=true&vCenter=true&multiline=false&width=800&lines=⚡+Engineering+enterprise-grade+systems+at+scale;☕+Java+•+Spring+Boot+•+React+•+PostgreSQL+•+Neo4j;🤖+Google+Certified+Gemini+Educator+%7C+AI+Practitioner;🔗+Graph+Database+Architect+%7C+Neo4j+Certified+Pro;🏗️+Building+the+next-gen+F%26B+%26+ERP+Platform;💚+Clean+Code+•+Clean+Architecture+•+Strong+Coffee)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,7 +43,10 @@
 
 <br/>
 
----
+<!-- ═══════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -48,50 +54,108 @@
 
 </div>
 
-```typescript
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-//  ENGINEER.profile.ts  |  v2.6.0  |  status: ONLINE ✅
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<table>
+<tr>
+<td width="55%" valign="top">
 
-const engineer: Profile = {
-  identity: {
-    name:      "Maneesha Gunawardhana",
-    title:     "Software Engineer  |  Enterprise Architect  |  Full-Stack Developer",
-    education: "BSc Software Engineering — Cardiff Metropolitan University 🎓",
-    base:      "Colombo, Sri Lanka 🇱🇰",
-    freelance: "Freelancer.com — Top-Rated ⭐",
-  },
+```typescript
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//  ENGINEER.profile.ts   |   v3.0.0
+//  status: ONLINE ✅  |  uptime: 99.99%
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const maneesha: Engineer = {
+  base: "Colombo, Sri Lanka 🇱🇰",
+
+  education:
+    "BSc Software Engineering — " +
+    "Cardiff Metropolitan University 🎓",
+
+  roles: [
+    "Software Engineer",
+    "Enterprise Architect",
+    "Full-Stack Developer",
+  ],
 
   certifications: [
-    "✅  Google Certified Gemini Educator",
-    "✅  Neo4j Certified Professional",
-    "✅  Professional WordPress Developer",
+    "✅ Google Certified Gemini Educator",
+    "✅ Neo4j Certified Professional",
+    "✅ Pro WordPress Developer",
   ],
 
   expertise: [
     "Enterprise POS & ERP Systems",
-    "Full-Stack Java + React Applications",
-    "Cloud-Native & Microservices Architecture",
-    "Graph Database Solutions  (Neo4j)",
-    "F&B Operations Management Platforms",
+    "Java + React Full-Stack Apps",
+    "Cloud-Native Microservices",
+    "Graph Database Solutions (Neo4j)",
+    "F&B Operations Platforms",
   ],
 
   runtime: {
-    learning:  "Advanced Distributed Systems & System Design",
-    shipping:  "Enterprise F&B Operations Management Platform 🍽️",
-    openTo:    ["Freelance Contracts", "Technical Collaborations", "Remote Roles"],
+    shipping:  "F&B Ops Platform 🍽️",
+    learning:  "Distributed Systems Design",
+    openTo:    ["Freelance", "Remote", "Contract"],
   },
 
-  philosophy: `"Helping people make the world a better place
-               through quality software."`,
+  philosophy:
+    "Helping people make the world a " +
+    "better place through quality software.",
 };
 
-export default engineer;
+export default maneesha;
 ```
+
+</td>
+<td width="45%" valign="middle">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding Animation"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_Focus-Distributed_Systems-2ed573?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
 
 <br/>
 
----
+<img src="https://img.shields.io/badge/📍_Base-Colombo,_Sri_Lanka-2ed573?style=for-the-badge&labelColor=0d1117" alt="Base"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/💼_Status-Open_To_Work-FFA502?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/⏱️_Response_Time-<_24_Hours-2ed573?style=for-the-badge&labelColor=0d1117" alt="Response Time"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════ 🐍 CONTRIBUTION SNAKE ═══════════════════ -->
+
+<div align="center">
+
+## 🐍 Watch The Snake Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mGunawardhana/mGunawardhana/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mGunawardhana/mGunawardhana/output/github-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/mGunawardhana/mGunawardhana/output/github-snake-dark.svg" alt="Contribution Snake Animation"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -155,73 +219,66 @@ A comprehensive food & beverage management system for restaurants, cafés, and h
 
 <br/>
 
----
+<!-- ═══════════════════ 🛠️ TECH ARSENAL (skillicons) ═══════════════════ -->
 
 <div align="center">
 
 ## 🛠️ Technology Arsenal
 
+<br/>
+
 ### ━━━━━━━━━━━━━ LANGUAGES ━━━━━━━━━━━━━
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark" alt="Languages"/>
+
+<br/>
 
 ### ━━━━━━━━━━ FRONTEND STACK ━━━━━━━━━━
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,materialui,bootstrap,vite&theme=dark" alt="Frontend"/>
+
+<br/>
 
 ### ━━━━━━━━━━ BACKEND STACK ━━━━━━━━━━
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=spring,nodejs,fastapi&theme=dark" alt="Backend"/>
+
+<br/>
 
 ### ━━━━━━━━━━━━ DATABASES ━━━━━━━━━━━━
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Neo4j_•_Certified_Professional-018bff?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=0d1117" alt="Neo4j"/>
+
+<br/>
 
 ### ━━━━━━━━━━ DEVOPS & CLOUD ━━━━━━━━━━
 
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,jenkins,nginx,netlify&theme=dark" alt="DevOps and Cloud"/>
 
-### ━━━━━━━━━ BUILD & VERSION CONTROL ━━━━━━━━━
+<br/>
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+### ━━━━━━━ BUILD & VERSION CONTROL ━━━━━━━
 
-### ━━━━━━━━━━━━━ IDEs ━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=maven,gradle,git,github,gitlab,bitbucket&theme=dark" alt="Build and VCS"/>
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+<br/>
+
+### ━━━━━━━━━━ IDEs & PLATFORMS ━━━━━━━━━━
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,webstorm,wordpress&theme=dark" alt="IDEs"/>
 
 </div>
 
 <br/>
 
----
+<!-- ═══════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -247,7 +304,7 @@ A comprehensive food & beverage management system for restaurants, cafés, and h
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mGunawardhana&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2ED573&ring=2ED573&fire=FFA502&currStreakLabel=2ed573&sideLabels=c9d1d9&dates=6a737d&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mGunawardhana&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2ED573&ring=2ED573&fire=FFA502&currStreakLabel=2ed573&sideLabels=c9d1d9&dates=6a737d&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
@@ -263,7 +320,7 @@ A comprehensive food & beverage management system for restaurants, cafés, and h
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mGunawardhana&theme=github_dark" width="100%" alt="Profile Activity Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mGunawardhana&theme=github_dark" width="100%" alt="Profile Activity Summary"/>
 
 </div>
 
@@ -271,23 +328,17 @@ A comprehensive food & beverage management system for restaurants, cafés, and h
 
 <div align="center">
 
-<img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mGunawardhana&theme=github_dark" alt="Most Commit Language"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mGunawardhana&theme=github_dark" alt="Most Commit Language"/>
 &nbsp;
-<img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mGunawardhana&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+<img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mGunawardhana&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
 
 </div>
 
 <br/>
-
----
 
 <div align="center">
 
 ## 📈 Contribution Activity
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mGunawardhana&bg_color=0d1117&color=2ed573&line=009432&point=FFA502&area=true&area_color=2ed573&hide_border=true&border_radius=10&custom_title=Contribution%20Graph%20%E2%80%94%20Maneesha%20Gunawardhana" width="100%" alt="Contribution Graph"/>
 
@@ -295,7 +346,22 @@ A comprehensive food & beverage management system for restaurants, cafés, and h
 
 <br/>
 
----
+<!-- ═══════════════════ 💭 RANDOM DEV QUOTE ═══════════════════ -->
+
+<div align="center">
+
+## 💭 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ ANIMATED RAINBOW DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+
+<br/>
 
 <div align="center">
 
@@ -326,8 +392,6 @@ A comprehensive food & beverage management system for restaurants, cafés, and h
 
 <br/>
 
----
-
 <div align="center">
 
 ## 📡 Live System Status
@@ -351,15 +415,13 @@ $ curl -s https://api.github.com/users/mGunawardhana | jq '{status}'
 
 <br/>
 
----
+<!-- ═══════════════════ 🤝 CONNECT ═══════════════════ -->
 
 <div align="center">
 
 ## 🤝 Let's Build Something Great
 
-</div>
-
-<div align="center">
+<br/>
 
 <a href="https://www.linkedin.com/in/maneesha-gunawardhana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -381,7 +443,7 @@ $ curl -s https://api.github.com/users/mGunawardhana | jq '{status}'
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=600&color=6A737D&center=true&vCenter=true&width=680&lines=📬+Have+a+project%2C+idea%2C+or+a+hard+problem+to+solve%3F;🤝+Let's+architect+something+remarkable+together.;💡+Open+to+freelance+contracts+%26+collaborations.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=600&color=6A737D&center=true&vCenter=true&width=680&lines=📬+Have+a+project%2C+idea%2C+or+a+hard+problem+to+solve%3F;🤝+Let's+architect+something+remarkable+together.;💡+Open+to+freelance+contracts+%26+collaborations.;⭐+Drop+a+star+if+you+like+what+you+see!)](https://git.io/typing-svg)
 
 </div>
 
@@ -397,4 +459,4 @@ $ curl -s https://api.github.com/users/mGunawardhana | jq '{status}'
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=140&section=footer&animation=fadeIn&stroke=2ed573&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,24,30&height=140&section=footer&animation=twinkling&stroke=2ed573&strokeWidth=1"/>
