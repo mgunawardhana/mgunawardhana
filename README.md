@@ -9,6 +9,8 @@
 
 </div>
 
+<img width="1619" height="971" alt="claude-code-ai-developer-expert" src="https://github.com/user-attachments/assets/ca53fab5-b1e1-4278-91d3-f7efc35f6613" />
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=2ED573&background=00000000&center=true&vCenter=true&multiline=false&width=800&lines=⚡+Engineering+enterprise-grade+systems+at+scale;☕+Java+•+Spring+Boot+•+React+•+PostgreSQL+•+Neo4j;🤖+Google+Certified+Gemini+Educator+%7C+AI+Practitioner;🔗+Graph+Database+Architect+%7C+Neo4j+Certified+Pro;🏗️+Building+the+next-gen+F%26B+%26+ERP+Platform;💚+Clean+Code+•+Clean+Architecture+•+Strong+Coffee)](https://git.io/typing-svg)
